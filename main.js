@@ -6,7 +6,7 @@ const { phoneNumberFormatter } = require('./formatnumber')
 
 const client = new Client()
 
-const csvPhoneNumbersPath = './data/target_batch_example.csv';
+const csvPhoneNumbersPath = './data/target_batch.csv';
 const targetPhoneNumbers = [];
 const messageToSend = `
 Halo, terimakasih sudah mendaftar acara Lotengdev Meetup #3,
@@ -62,7 +62,7 @@ client.on("ready", () => {
                 // recursive call
                 sendBatchMessage(phoneNumbers, message);
                 counter++;
-                
+
                 if(counter >= targetPhoneNumbers.length){
                     console.log("🎉 Semua pesan terkirim!")
                 }
