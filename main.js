@@ -10,8 +10,7 @@ const csvPhoneNumbersPath = './data/target_batch.csv';
 const targetPhoneNumbers = [];
 const messageToSend = `
 Halo, terimakasih sudah mendaftar acara Lotengdev Meetup #3,
-berikut ini link Zoom untuk acara nanti pada *Sabtu, 27 Januari,
-Pukul 20.30 WITA*.
+berikut ini link Zoom untuk acara nanti pada *Sabtu, 27 Januari, Pukul 20.30 WITA*.
 
 Join Zoom Meeting
 https://telkomsel.zoom.us/j/96378472133?pwd=RCt5RzVWQVI2MnpOVlg1WWkvZzNUZz09
