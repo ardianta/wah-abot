@@ -21,7 +21,7 @@ Passcode: lotengdev
 
 Sampai jumpa di acara 👋.
 
-*[Sent by WABot]*
+*[Sent by Wah aBot]*
 `;
 
 // loop counter
