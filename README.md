@@ -1,6 +1,9 @@
-# WAabot
+# Wah abot
 
-_Abot_ (malas) kirim pesan ke banyak orang, pakai aja bot ini.
+_Wah abot_ (malas ah!) kirim pesan ke banyak orang.
+Copy paste pesan satu-satu, menghabiskan energi dan watku.
+Pakai saja Bot ini, kalau nomor WA-nya di-banned, tanggaung
+jawab sendiri hehe.
 
 # Persiapan
 
@@ -16,7 +19,7 @@ Isi data target di file CSV `data/target_batch.csv`.
 
 Jalankan botnya dengan perintah:
 
-```
+````
 node main.js
 ```
 
