@@ -19,7 +19,7 @@ Isi data target di file CSV `data/target_batch.csv`.
 
 Jalankan botnya dengan perintah:
 
-````
+```
 node main.js
 ```
 
