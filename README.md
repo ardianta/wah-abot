@@ -22,4 +22,6 @@ node main.js
 
 Tunggu sampai keluar QR Code.
 
-Setelah itu scan QR Code untuk login ke WA Client (web).
+Setelah itu scan QR Code untuk login ke WA Client (web)
+dan pesan akan otomatis terkirim sesuai dengan data yang
+ada di `data/target_batch.csv`.
